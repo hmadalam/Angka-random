@@ -1,5 +1,5 @@
 let score = 0;
-let time = 45;
+let time = 120;
 let num1, num2, operator, correctAnswer;
 let timer;
 
